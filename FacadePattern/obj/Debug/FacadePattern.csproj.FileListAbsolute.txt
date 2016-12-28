@@ -1,0 +1,6 @@
+c:\users\marcelo\documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\bin\Debug\FacadePattern.exe.config
+c:\users\marcelo\documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\bin\Debug\FacadePattern.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\bin\Debug\FacadePattern.pdb
+c:\users\marcelo\documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
+c:\users\marcelo\documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\obj\Debug\FacadePattern.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\DesignPatterns\FacadePattern\obj\Debug\FacadePattern.pdb
