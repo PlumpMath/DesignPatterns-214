@@ -14,6 +14,8 @@ namespace FacadePattern
 
             facade.MethodA();
             facade.MethodB();
+
+            // Test
         }
     }
 }
